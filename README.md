@@ -1,2 +1,2 @@
 # petsim99dupe
-loadstring(game:HttpGet("YOUR LINK HERE", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pablopoep/petsim99dupe/main/dupe.lua", true))()
